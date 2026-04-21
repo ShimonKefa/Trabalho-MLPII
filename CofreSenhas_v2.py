@@ -55,7 +55,7 @@ class Encrypted(Credencial, Seguranca):
     def mostrar(self):
         return f"{self.nome} | {self.email} | {self.site} | {self.descriptografar(self.senha)} | {self.categoria.nome}"
         
-    #Cofre é um struct dinâmico que armazena os objetos que compõem a senha gerada pelo usuário, bem como website, nome da pessoa que adicionou e entre outros.       
+    #Cofre é um array dinâmico que armazena os objetos que compõem a senha gerada pelo usuário, bem como website, nome da pessoa que adicionou e entre outros.       
 cofre = []
 
 class BUFFER_LENGHT_PSWRD_ERROR(Exception):
@@ -94,7 +94,8 @@ def Adicionar():
         
         c = Encrypted(nome,email,site,senha,categoria)
         cofre.append(c)
-        
+        A sign in attempt requires further verification because we did not recognize your device. To complete the sign in, enter the verification code on the unrecognized device.
+
         print("Senha salva com sucesso")
 
         input("Pressione Enter para continuar...")
