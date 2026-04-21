@@ -13,7 +13,7 @@ Integrantes do Grupo:
     
 Professor Orientador:
 
-  --Edgard da Cunha Pontes
+  -- Edgard da Cunha Pontes
 
 =====================//====================
 
