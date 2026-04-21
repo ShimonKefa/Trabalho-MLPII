@@ -4,13 +4,16 @@ Trabalho de MLPII - tem por objetivo explorar os conceitos de OOP na linguagem p
 =====================//====================
 
 Integrantes do Grupo:
+
     --Oliveira, Pedro Manzoli.
     
     --Ribeiro, Lucas Bizzoni
     
     --FERREIRA, Ruan Pablo dos Santos
+    
 Professor Orientador:
-  Edgard da Cunha Pontes
+
+  --Edgard da Cunha Pontes
 
 =====================//====================
 
