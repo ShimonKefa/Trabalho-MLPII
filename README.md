@@ -46,3 +46,9 @@ Além disso, o sistema aplica conceitos como:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-repositorio.git
+
+2. Abra o Terminal na Pasta que extrair
+
+3. Rode o comando:
+``bash
+python3 CofreSenhas_v3.py
