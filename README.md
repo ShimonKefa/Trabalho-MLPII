@@ -50,8 +50,7 @@ git clone https://github.com/seu-repositorio.git
 
 2. Abra o Terminal na Pasta que extrair
 
-3. Rode o comando:
-python3 CofreSenhas_v3.py
-
+3. como rodar o comando:
+python3 CofreSenhas_v4.py
 ```
 
